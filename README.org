@@ -8,8 +8,11 @@ from Tureng_API import *
 
 dict_ = {}
 
+#REQ: "WORD", "Language Transformation", "Dict" , "Start Value"
 translated = Tureng_translate("Buch","DE-EN",dict_,1)
 
 print(dict_)
   
 #+END_SRC
+
+

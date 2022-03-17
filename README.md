@@ -4,3 +4,4 @@ This program aims to using TURENG translate feature on terminal. I want to write
 #+BEGIN_SRC python
   print("deneme")
 
+#+END_SRC

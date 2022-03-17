@@ -1,6 +1,8 @@
 # Tureng_API
 This program aims to using TURENG translate feature on terminal. I want to write this API because When you want to translate something on terminal, you can use just google-translate but sometimes google-translate doesn't enough some reasons.
 
+API has just one object which name is "Tureng_Translate" and object has some properties.
+
 Example Usage:
 
 #+BEGIN_SRC python

@@ -14,6 +14,12 @@ dict_ = {}
 translated = Tureng_translate("Buch","DE-EN",dict_,1)
 
 print(dict_)
+ 
+#Properties
+ """
+ ['_Tureng_translate__category', '_Tureng_translate__dict_', '_Tureng_translate__language', '_Tureng_translate__mean', '_Tureng_translate__request_html', '_Tureng_translate__setdict', '_Tureng_translate__transform_lang', '_Tureng_translate__translate_ing_to_other', '_Tureng_translate__translate_other_to_ing', '_Tureng_translate__tureng_url', '_Tureng_translate__word', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'dict_return', 'show_languages', 'show_the_language_transform', 'show_the_word_to_translate', 'start']
+  """
+  
   
 #+END_SRC
 

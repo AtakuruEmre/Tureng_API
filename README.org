@@ -1,5 +1,5 @@
 # Tureng_API
-This program aims to using "Tureng-Translate" feature on terminal. Reason of writing this API is "Google-Translate" module doesn't enoguh some status Therefore This API provide using translate feature on terminal with all the meanings of the words.
+This program aims to using "Tureng-Translate" feature on terminal. Reason of writing this API is "Google-Translate" module doesn't enoguh some status Therefore This API provides to using translate feature on terminal with all the meanings of the words.
 API has just one object which name is "Tureng_Translate" and this object has some properties.
 
 Example Usage:

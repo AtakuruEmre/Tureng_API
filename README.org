@@ -13,6 +13,11 @@ dict_ = {}
 translated = Tureng_translate("Buch","DE-EN",dict_,1)
 
 print(dict_)
+
+#Output
+"""
+{'General': 'book ', 'General1': 'quire ', 'General2': 'volume ', 'Business': 'volume ', 'Business1': 'ledger ', 'Business2': 'book ', 'Veterinary': 'psalterium ', 'Tourism': 'volume ', 'Zoology': 'psalterium ', 'Zoology1': 'psalterium ', 'Printing': 'book ', 'Cinema': 'written by ', 'Cinema1': 'screenplay ', 'Cinema2': 'book ', 'Cinema3': 'writer ', 'Chess': 'book ', 'Paper Terms': 'book '}
+ """
  
 #Properties
  """
